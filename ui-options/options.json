@@ -1,0 +1,24 @@
+{
+  "brandingCssVars": {
+      "brand-logo-img-height": "40%",
+      "header-color": "#20a22e",
+      "navigator-font-family": "var(--font-family-base)",
+      "navigator-platform-logo-height": "40%",
+      "navigator-active-bg": "#11751C",
+      "brand-complementary": "#20a22e",
+      "brand-primary": "#20a22e",
+      "brand-light": "#F9990D",
+      "brand-dark": "#11751C",
+      "navigator-platform-logo": "url(/apps/public/ui-assets/logo.svg)",
+      "brand-logo-img": "url(/apps/public/ui-assets/logo-main.svg)"
+  },
+  "globalTitle": "Pied piper",
+  "faviconUrl": "/apps/public/ui-assets/favicon.ico",
+  "languages": {
+    "ru": {
+      "name": "Russian",
+      "nativeName": "русский язык",
+      "url": "/apps/public/ui-assets/ru.json"
+    }
+  }
+}
