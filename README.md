@@ -9,4 +9,4 @@ To deploy:
 
 * deploy it to cumulocity, either by uploading the zip through the UI, or by issuing:
 
-       c8ycli deploy ui-assets public-options
+       c8ycli deploy -u https://<your_tenant>.cumulocity.com  ui-assets.zip
